@@ -1,6 +1,6 @@
 # Cinema Seat Booking System (Java)
 
-**Course Project:** COS10033 — Assignment 1  
+**Course Project:** COS10033 - Assignment 1  
 
 ---
 
