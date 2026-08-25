@@ -35,9 +35,9 @@ A menu-driven Java console application designed to manage ticket bookings and se
 
 ## Program Menu Options
 
-1. **Reserve Tickets** — Book seats manually or automatically (up to 10 tickets per transaction).
-2. **Show Current Availability** — Print the visual seating chart.
-3. **Show Count of Availability** — Display remaining seat count.
-4. **Search Ticket** — Find ticket details using a unique Ticket ID.
-5. **Print All Tickets** — Display all issued tickets.
-6. **Exit** — Terminate the program.
+1. **Reserve Tickets**: Book seats manually or automatically (up to 10 tickets per transaction).
+2. **Show Current Availability**: Print the visual seating chart.
+3. **Show Count of Availability**: Display remaining seat count.
+4. **Search Ticket**: Find ticket details using a unique Ticket ID.
+5. **Print All Tickets**: Display all issued tickets.
+6. **Exit**: Terminate the program.
